@@ -1,2 +1,2 @@
 My first readme
-An amazing update
+AN AMAZEMENT
